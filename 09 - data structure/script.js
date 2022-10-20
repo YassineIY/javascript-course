@@ -14,6 +14,10 @@ const a = array[0];
 const b = array[1];
 const c = array[2];
 
-const [x,y,z] = array;
+const [x, y, z] = array;
 
+console.log(x, y, z);
+console.log(array);
 
+const [lowl,tani] = restaurant.categories;
+console.log(lowl,tani);
